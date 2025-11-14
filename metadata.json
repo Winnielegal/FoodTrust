@@ -1,0 +1,5 @@
+{
+  "name": "FoodTrust – AI-Verified Sustainable Food Supply",
+  "description": "A decentralized web application to verify the provenance and sustainability claims of food products using AI and simulated blockchain technology. Scan a product's QR code or enter its ID to view its complete journey, sustainability score, and immutable verification records.",
+  "requestFramePermissions": []
+}
