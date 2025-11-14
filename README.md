@@ -44,4 +44,4 @@ git clone https://github.com/<your-username>/FoodTrust.git
 cd FoodTrust
 npm install
 npm start
->>>>>>> a311870353f0d03a9b87694eb72b962e63d8f927
+
